@@ -1,11 +1,8 @@
 # Passenger Counter Web Application
 
-## About Scrimba
+It is a Web Application that helps everyone to count with just a click of a button and save it. 💜
+Start counting again till the time website is a turn-off.🎉
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
- https://loquacious-bunny-84d078.netlify.app
+ https://loquacious-bunny-84d078.netlify.app 🚀
 
 Happy Coding!
